@@ -1,3 +1,3 @@
-<h1 align="center">We Are The World</h1>
+<h1 align="center">四海之内皆兄弟，我们都是神的儿女</h1>
 
-<p align="center">We are all a part of God's great big family. And the truth you know love is all we need. ❤️</p>
+<p align="center">《圣经》读书笔记</p>
