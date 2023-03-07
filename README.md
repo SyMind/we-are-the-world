@@ -1,4 +1,7 @@
-<h1 align="center">四海之内皆兄弟，我们都是神的儿女</h1>
+<p align="center">
+    <img src="./assets/cross-equals-love.jpeg" height="130">
+    <h1 align="center">四海之内皆兄弟，我们都是神的儿女</h1>
+</p>
 
 <p align="center">基督教慕道笔记</p>
 
